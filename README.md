@@ -1,6 +1,6 @@
-### Fala povo, bão? 👋
-
-
+<p align="center">
+  <img src="./assets/Hello readme.png" />
+</p>
 
 <p align="center">
   <a target="_blank" href="https://www.instagram.com/allickvivekananda"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -23,7 +23,7 @@
 
 ### 👨‍💻 About Me:
 
-My name is Allan Vivekananda and I'm a Front-End developer from Minas Gerais, Brazil
+I'm a Front-End developer from Minas Gerais, Brazil
 - 🧀 Would you like a <em>Pão de Queijo</em>?
 - 📖 In my free time, I read some books, search for new contents and sometimes, play videogame 🎮
 - I'm 25 years old
